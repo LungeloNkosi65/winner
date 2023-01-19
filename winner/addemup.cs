@@ -6,7 +6,7 @@ using System.Text;
 
 namespace winner
 {
-    public class winner
+    public class addemup
     {
         private static void Main(string[] args)
         {
